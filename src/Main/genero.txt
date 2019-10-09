@@ -1,0 +1,2 @@
+int;idGenero
+String;generoLivro

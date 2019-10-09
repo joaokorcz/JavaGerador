@@ -1,0 +1,8 @@
+long;idProduto
+String;nomeProd
+double;precoProd
+double;pesoProd
+Date;dataCadastro
+boolean;perecivel
+Date;dataVencimento
+boolean;vencido

@@ -1,0 +1,10 @@
+int;idPaciente
+String;nomePaciente
+Date;dataNascimento
+double;peso
+double;altura
+boolean;maluco
+Date;dataTeste
+combo;genero
+String;corFavorita
+boolean;taVivo

@@ -1,0 +1,6 @@
+long;idPaciente
+String;nomePaciente
+double;peso
+double;altura
+Date;dataNasc
+boolean;taVivo
